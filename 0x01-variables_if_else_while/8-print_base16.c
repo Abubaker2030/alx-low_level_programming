@@ -2,7 +2,6 @@
 
 /**
  * main - Prints a hexadecimal string
- *
  * Return: Always (Success)
  */
 int main(void)
