@@ -2,19 +2,16 @@
 
 /**
  * main - Prints the numbers since 0 to 9
- *
- * Return: Always (Success)
+ * Return: Always 0
  */
-nt main(void)
+int main(void)
 {
-	char n;
+	int num;
 
-	for (n = '0'; n <= '9'; n++)
-	{
-		putchar(n);
-	}
+	for (num = 0; num < 10; num++)
+		printf("%d", num);
 
-	putchar('\n');
+	printf("\n");
 
 	return (0);
 }
