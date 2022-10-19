@@ -1,14 +1,16 @@
-#include "main.h"
-/**
- * main - print _putchar
- *
- * is written by bwave
- * Return: 0
- */
+#include  "main.h"
 
+/*
+* main - Write a program that prints _putchar, followed by a new line
+*
+* File: 0-putchar.c
+* Auth: Abubaker2030
+*
+* Return: Always 0
+*/
 int main(void)
 {
-_putchar('-');
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
