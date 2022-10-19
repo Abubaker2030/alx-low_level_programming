@@ -1,14 +1,11 @@
 #include  "main.h"
 
 /*
-* main - Write a program that prints _putchar, followed by a new line
-*
-* File: 0-putchar.c
-* Auth: Abubaker2030
-*
-* Return: Always 0
+*main -  prints _putchar, followed by a new line
+*Return: Always (success)
 */
 int main(void)
+
 {
 _putchar('_');
 _putchar('p');
