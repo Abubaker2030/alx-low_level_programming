@@ -2,8 +2,9 @@
 #include <unistd.h>
 
 /**
-*main - Entry point
-*Rrturn: Always 1
+* main - Entry point
+*
+* Rrturn: Always 0 (success)
 */
 
 int main(void)
