@@ -1,1 +1,1 @@
-0x04-more_functions_nested_loops
+that runs a C file through the preprocessor and save the result into another file
