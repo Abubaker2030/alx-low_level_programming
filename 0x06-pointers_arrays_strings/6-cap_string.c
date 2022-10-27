@@ -5,7 +5,7 @@
  * @ptr: string
  *
  * File: 6-cap_string.c
- *
+ * Auth: abubaker2030
  * Return: capitalizes all words
  */
 char *cap_string(char *ptr)
